@@ -1,0 +1,11 @@
+artifact/
+github/
+input/
+mlflow/
+mlruns/
+.DS_Store
+notebook/.DS_Store
+.ipynb_checkpoints/Churn_Kaggle-checkpoint.ipynb
+.ipynb_checkpoints/Dw_best_solution_mlflow-checkpoint.ipynb
+.ipynb_checkpoints/Kaggle_konkurs_statystyki-checkpoint.ipynb
+.ipynb_checkpoints/
